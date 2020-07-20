@@ -240,7 +240,7 @@ class TicTacToe:
 
 
 if __name__ == "__main__":
-    game = TicTacToe("Bruno", "Barbara")
+    game = TicTacToe("Player1", "Player2")
     game.main()
 
     pygame.quit()
