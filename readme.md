@@ -1,2 +1,2 @@
 # Primeiro projeto
-Um jogo da velha simples.
+Um jogo da velha simples com uma GUI.
