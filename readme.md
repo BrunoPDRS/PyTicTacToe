@@ -2,6 +2,18 @@
 
 PyTTT is a Tic Tac Toe game made with Python's Pygame module. It has a simple UI and all features of the worldwide known game.
 
+## Some exemples of the game running
+
+<div>
+  <img src="Backups/mainscreen.png" width=400px height=400px />
+  <img src="Backups/playing.png" width=400px height=400px />
+</div>
+
+<div>
+  <img src="Backups/winimage.png" width=400px height=400px />
+  <img src="Backups/playagain.png" width=400px height=400px />
+</div>
+
 ## Installing
 To play this game yourself is really simple. 
 
